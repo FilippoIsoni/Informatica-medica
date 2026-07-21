@@ -21,8 +21,8 @@ Procedimento implementato:
 ## File
 
 ```
-├── ISONI_GRUPPO13_TASK3.m                # script di compressione (Quesito 1)
-├── ISONI_GRUPPO13_TASK3_QUESITO1.txt      # output: blocchi <DC><AC>
+├── compressione_jpg.m                     # script di compressione (Quesito 1)
+├── QUESITO1.txt                           # output: blocchi <DC><AC>
 ├── matriceQ.mat                           # matrice di quantizzazione 8x8
 └── 13_ECO_Mammaria.jpg                    # immagine di input (ecografia)
 ```
