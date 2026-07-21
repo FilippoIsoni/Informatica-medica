@@ -25,9 +25,9 @@ Quattro DRG (37, 79, 105, 236) non presentano ricoveri registrati in questo data
 ## File
 
 ```
-├── Task1.m                                # script principale (parte 1 e parte 2)
-├── ISONI_GRUPPO13_TASK1_QUESITO1.pdf       # risultati, Quesito 1
-└── ISONI_GRUPPO13_TASK1_QUESITO2.pdf       # risultati, Quesito 2
+├── Analisi_rimborsi_ospedalieri_per_drg.m            # script principale (parte 1 e parte 2)
+├── QUESITO1.pdf                                      # risultati, Quesito 1
+└── QUESITO2.pdf                                      # risultati, Quesito 2
 ```
 
 ## Requisiti
