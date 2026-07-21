@@ -23,6 +23,6 @@ Query su uno schema esistente con tabelle quali `persone`, `dipendenti`, `visite
 ## File
 
 ```
-├── ISONI_GRUPPO13_TASK4_QUESITO1.docx   # query sullo schema esistente
-└── ISONI_GRUPPO13_TASK4_QUESITO2.docx   # creazione schema, DML, vista, query
+├── QUESITO1.docx   # query sullo schema esistente
+└── QUESITO2.docx   # creazione schema, DML, vista, query
 ```
