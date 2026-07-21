@@ -18,8 +18,8 @@ Procedimento implementato:
 ## File
 
 ```
-├── ISONI_GRUPPO13_script.m             # script di cifratura (Quesito 1)
-└── ISONI_GRUPPO13_TASK2_QUESITO1.txt   # output: testo cifrato + stringa binaria
+├── cifratura_RSA.m             # script di cifratura (Quesito 1)
+└── QUESITO1.txt                # output: testo cifrato + stringa binaria
 ```
 
 ## Requisiti
